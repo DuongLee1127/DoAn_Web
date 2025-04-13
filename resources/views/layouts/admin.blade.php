@@ -80,7 +80,7 @@
 
                                         <div class="search-list-item d-flex align-items-center gap-3">
                                             <div class="memmber-img">
-                                                <img src="assets/images/avatars/02.png" width="32" height="32"
+                                                <img src="assets/images/avatars/01.png" width="32" height="32"
                                                     class="rounded-circle" alt="">
                                             </div>
                                             <div class="">
@@ -90,7 +90,7 @@
 
                                         <div class="search-list-item d-flex align-items-center gap-3">
                                             <div class="memmber-img">
-                                                <img src="assets/images/avatars/03.png" width="32" height="32"
+                                                <img src="assets/images/avatars/01.png" width="32" height="32"
                                                     class="rounded-circle" alt="">
                                             </div>
                                             <div class="">
@@ -115,7 +115,7 @@
                         <a class="nav-link dropdown-toggle dropdown-toggle-nocaret position-relative"
                             data-bs-auto-close="outside" data-bs-toggle="dropdown" href="javascript:;"><i
                                 class="material-icons-outlined">notifications</i>
-                            <span class="badge-notify">5</span>
+                            <span class="badge-notify">9+</span>
                         </a>
                         <div class="dropdown-menu dropdown-notify dropdown-menu-end shadow">
                             <div class="px-3 py-1 d-flex align-items-center justify-content-between border-bottom">
